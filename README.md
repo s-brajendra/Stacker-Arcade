@@ -37,12 +37,12 @@ A circuit diagrams is provided in the 'circuits' folder to help you wire the com
 ![top level](https://github.com/s-brajendra/Stacker-Arcade/assets/80635193/fa001a8c-5bc0-4ccf-a02c-136da1e44cc4)
 
 * Set GameLevel
+  
 ![set game level algo flow chart](https://github.com/s-brajendra/Stacker-Arcade/assets/80635193/52ac5807-3bac-4d0c-ac3b-778ca2f4a614)
 
 * main gameplay
+  
 ![main gameplay flowchart](https://github.com/s-brajendra/Stacker-Arcade/assets/80635193/f1192166-79f1-43c3-82c5-b7366c1d63c6)
-
-
 
 
 ## Acknowledgments
