@@ -21,12 +21,7 @@
 * After selecting game shall start.
 * you can use same push button to control glowing row 
 * After game end user must be able to see their score, high score and level they were playing at.
-## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+
 ## Circuit Diagram 
 A circuit diagrams is provided in the 'circuits' folder to help you wire the components correctly.
 ![matric circuit](https://github.com/s-brajendra/Stacker-Arcade/assets/80635193/a0bb59f7-6222-4c68-9b1c-bf47770ca5d3)
