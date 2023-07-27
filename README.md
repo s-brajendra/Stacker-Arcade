@@ -41,11 +41,7 @@ A circuit diagrams is provided in the 'circuits' folder to help you wire the com
 
 
 ## Acknowledgments
-I am grateful to our instructor Dr Ribhu who guided 
-me through the project. Also, I am thankful to modern 
-technological advances which made gathering 
-knowledge, debugging and procuring components very 
-easy
+I am grateful Dr Ribhu Chopra who guided me through the project. Also, I am thankful to modern technological advances which made gathering knowledge, debugging and procuring components very easy
 ## License
 No need
 
