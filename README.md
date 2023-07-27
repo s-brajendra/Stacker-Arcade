@@ -1,9 +1,14 @@
 # Stacker Arcade
  The "Stacker Arcade Game" is an exciting course project that aims to recreate the classic arcade game experience in a digital form using Arduino. The game is developed For Hardware design Course Project.
 
+## Hardware Requirements
+Arduino Board (e.g., Arduino Uno)
+MAX7219 LED Matrix Display Module
+Breadboard and jumper wires
+Pushbuttons (at least two)
+Resistors (for button debouncing)
+USB cable for Arduino power and programming
 
-# ${1:Project Name}
-TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
 ## Usage
