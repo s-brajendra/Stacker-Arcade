@@ -30,8 +30,10 @@
 ## Circuit Diagram 
 A circuit diagrams is provided in the 'circuits' folder to help you wire the components correctly.
 ![matric circuit](https://github.com/s-brajendra/Stacker-Arcade/assets/80635193/a0bb59f7-6222-4c68-9b1c-bf47770ca5d3)
+
 ## Algorithm FlowChart
 * Top Level
+
 ![top level](https://github.com/s-brajendra/Stacker-Arcade/assets/80635193/fa001a8c-5bc0-4ccf-a02c-136da1e44cc4)
 
 * Set GameLevel
